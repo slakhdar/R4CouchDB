@@ -1,7 +1,9 @@
 - writing Tests -> RUnit package provides infrastructure
--- thist should be the next step
+-- this should be the next step
+--- test structure implemented; some test available; results go to the log folder 
 
 - before returning the list the answer should be more evaluated
+-- maybe Duncan has a idea which is the best method  
 
 - function for view requests
 -- done, but without params as ..?group=true
@@ -12,8 +14,7 @@
 
 - post and update files
 -- postFile done
-
--- skip postFile and updateFile out; this makes no sense
+--- skip postFile and updateFile out; this makes no sense
    since everyone knows best (better) how to handle with specific
    files resp. file structures ...
 
@@ -40,6 +41,6 @@
 
 - a function cdbDelDoc is missing
 -- the function is called cdbDeletDoc
---- done (but not  testet well)
+--- done (but not  tested well)
 
 - replication?
